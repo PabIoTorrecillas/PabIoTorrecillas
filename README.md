@@ -1,4 +1,4 @@
-👋 Hi, I’m @PabIoTorrecillas
+👋 Hi, I’m @PabIoTorrecillas and this is my GitHub Profile 
 
                 |
             \       /
@@ -16,6 +16,6 @@
 
 
 
- Computer systems engineering student 
-failure_rate == 0%; 
+ Computer systems engineering student <br>
+failure_rate == 0%; <br>
 female contact == 0%; 
