@@ -16,6 +16,6 @@
 
 
 
- Computer systems engineering student
-failure_rate == 0%;
-female contact == 0%;
+ Computer systems engineering student 
+failure_rate == 0%; 
+female contact == 0%; 
