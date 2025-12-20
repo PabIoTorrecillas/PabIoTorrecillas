@@ -17,7 +17,5 @@
 
 
  Computer systems engineering student <br>
-failure_rate == 0%; <br>
-female contact == 0%; <br>
 
 ![git](https://github.com/user-attachments/assets/2a7dbb4a-2d21-40d6-8530-7bce8b96c375)
