@@ -79,7 +79,9 @@ status:   "open to interesting problems, i need a job"
 </div>
 
 ---
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/cb60b9f1-6402-4836-9f5e-0aa502134796" width="300" align="center">
+</p>
 <div align="center">
 <sub> built with intention · maintained with care · <code>git push origin main</code></sub>
 </div>
