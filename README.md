@@ -74,7 +74,7 @@ status:   "open to interesting problems, i need a job"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloTorr17s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D8CFF&icon_color=9D8CFF&text_color=8b949e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloTorr17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D8CFF&icon_color=9D8CFF&text_color=8b949e)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTorr17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D8CFF&text_color=8b949e)
 
